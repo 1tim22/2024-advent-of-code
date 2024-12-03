@@ -1,6 +1,12 @@
 [submodule "2024-advent-of-code-day-1-1"]
 	path = 2024-advent-of-code-day-1-1
 	url = git@github.com:1tim22/2024-advent-of-code-day-1-1.git
+	branch = rust
 [submodule "2024-advent-of-code-day-1-2"]
 	path = 2024-advent-of-code-day-1-2
 	url = git@github.com:1tim22/2024-advent-of-code-day-1-2.git
+	branch = rust
+[submodule "2024-advent-of-code-day-2-1"]
+	path = 2024-advent-of-code-day-2-1
+	url = git@github.com:1tim22/2024-advent-of-code-day-2-1.git
+	branch = rust
